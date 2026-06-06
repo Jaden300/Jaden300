@@ -2,7 +2,7 @@
 
 **ML engineer · Toronto · 16**
 
-Building end-to-end AI systems across biosignal ML, embedded hardware, and full-stack deployment - from raw EMG signals to deployed assistive interfaces. Open to internships in ML research, biomedical engineering, and software engineering.
+Building end-to-end AI systems across ML, embedded hardware, and full-stack deployment - from raw EMG signals to deployed assistive interfaces. Open to internships in ML research, biomedical engineering, and software engineering.
 
 [Portfolio](https://jaden-wong.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/jaden-wong09) &nbsp;·&nbsp; jn.wong.enterprise@gmail.com
 
