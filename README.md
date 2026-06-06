@@ -17,9 +17,5 @@ Building end-to-end AI systems across ML, embedded hardware, and full-stack depl
 
 ---
 
-**AI Intern @ Asenion (formerly Fairly AI)** &nbsp;·&nbsp; Sep 2025 - Jan 2026 &nbsp;·&nbsp; Automated LLM evaluation pipelines, 1000+ tests, statistical failure-mode analysis
-
----
-
 *Toronto · Ontario · Canada*
 
