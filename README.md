@@ -22,3 +22,4 @@ Building end-to-end AI systems across biosignal ML, embedded hardware, and full-
 ---
 
 *Toronto · Ontario · Canada*
+
