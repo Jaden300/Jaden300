@@ -1,21 +1,25 @@
 ![banner](https://raw.githubusercontent.com/Jaden300/Portfolio/main/public/banner.svg)
 
-**ML engineer · Toronto · 16**
+**ML engineer · builder · Toronto, 16**
 
-Building end-to-end AI systems across ML, embedded hardware, and full-stack deployment - from raw EMG signals to deployed assistive interfaces. Open to internships in ML research, biomedical engineering, and software engineering.
+I build end-to-end systems across ML, full-stack, and quantitative trading. Creator of [myojam](https://myojam.com) - open-source EMG gesture classification, no lab, no funding.
 
-[Portfolio](https://jaden-wong.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/jaden-wong09) &nbsp;·&nbsp; jn.wong.enterprise@gmail.com
+[Portfolio](https://jaden300.github.io/Portfolio) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jaden-wong09/)
 
 ---
 
-| Project | |
+| Project | Description |
 |---|---|
-| [myojam](https://github.com/Jaden300/myojam) | Real-time EMG gesture classifier - 84.85% accuracy on Ninapro DB5, Arduino + browser demo |
-| [Quant-Trading](https://github.com/Jaden300/Quant-Trading) | Backtesting + optimization framework across 5 cross-asset strategies |
-| [Machine-Learning-Series](https://github.com/Jaden300/Machine-Learning-Series) | EDA, classification, regression, and clustering - end-to-end ML projects |
-| [Portfolio](https://github.com/Jaden300/Portfolio) | React 19 + Three.js - custom SVG charts, CSS character art, immersive scroll |
+| **[myojam](https://github.com/Jaden300/myojam)** | Open-source EMG gesture classification - 84.85% cross-subject accuracy on Ninapro DB5. Full-stack platform with browser demos, 11 articles, and educator lesson plans |
+| **[MyMurry](https://mymurry.com)** | AI-powered active recall platform - GPT-4o scoring, 21+ REST endpoints, 9 DB models, i18n (EN/FR/ES) |
+| **[Quant-Trading](https://github.com/Jaden300/Quant-Trading)** | 23 trading strategies, 5 live - Kalman filter crossover, ~2,140 backtested param combos, live S&P 500 scanner |
 
 ---
 
-*Toronto · Ontario · Canada*
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
