@@ -1,18 +1,20 @@
 ![banner](https://raw.githubusercontent.com/Jaden300/Portfolio/main/public/banner.svg)
 
-**ML engineer · builder · Toronto, 16**
+**ML engineer · full-stack builder · Toronto, 16**
 
-I build end-to-end systems across ML, full-stack, and quantitative trading. Creator of [myojam](https://myojam.com) - open-source EMG gesture classification, no lab, no funding.
+I build end-to-end systems across **machine learning**, **full-stack web**, and **quantitative trading**. I specialize in biomedical signal processing, applied ML, and AI-powered platforms - shipping complete systems from data to deployment.
 
-[Portfolio](https://jaden300.github.io/Portfolio) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jaden-wong09/)
+[Portfolio](https://jaden-wong.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jaden-wong09/)
 
 ---
 
-| Project | Description |
-|---|---|
-| **[myojam](https://github.com/Jaden300/myojam)** | Open-source EMG gesture classification - 84.85% cross-subject accuracy on Ninapro DB5. Full-stack platform with browser demos, 11 articles, and educator lesson plans |
-| **[MyMurry](https://mymurry.com)** | AI-powered active recall platform - GPT-4o scoring, 21+ REST endpoints, 9 DB models, i18n (EN/FR/ES) |
-| **[Quant-Trading](https://github.com/Jaden300/Quant-Trading)** | 23 trading strategies, 5 live - Kalman filter crossover, ~2,140 backtested param combos, live S&P 500 scanner |
+**[myojam](https://github.com/Jaden300/myojam)** &nbsp;·&nbsp; [Visit Website](https://www.myojam.com/) — Open-source **EMG gesture classification**. **84.85% cross-subject accuracy** on Ninapro DB5, full-stack platform with **8 browser demos**, **11 articles**, and educator lesson plans
+
+**[MyMurry](https://github.com/Jaden300/MyMurry)** &nbsp;·&nbsp; [Visit Website](https://mymurry.com/) — AI-powered **active recall** platform. **GPT-4o** scoring, **21+ REST endpoints**, **9 DB models**, i18n (EN/FR/ES)
+
+**[Quant-Trading](https://github.com/Jaden300/Quant-Trading)** — **23 trading strategies**, 5 live. Kalman filter crossover, **~2,140 backtested** param combos, live **S&P 500** scanner
+
+**[Machine-Learning-Series](https://github.com/Jaden300/Machine-Learning-Series)** — **4 end-to-end ML notebooks**, 614 cells. Stacked ensemble **97.0% accuracy**, **R² = 0.9893** regression, interpretability pipeline with **LIME**
 
 ---
 
