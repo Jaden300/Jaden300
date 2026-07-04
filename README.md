@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/Jaden300/Jaden300/main/banner.png)
 
-**ML engineer · full-stack builder · Toronto, 16**
+**ML engineer · full-stack builder · Toronto, 17**
 
 I build end-to-end systems across **machine learning**, **full-stack web**, and **quantitative trading**. I specialize in biomedical signal processing, applied ML, and AI-powered platforms - shipping complete systems from data to deployment.
 
