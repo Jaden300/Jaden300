@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Jaden300/Jaden300/main/banner-street.png)
+![banner](https://raw.githubusercontent.com/Jaden300/Jaden300/main/banner-street-2.png)
 
 **ML engineer · full-stack builder · Toronto, 17**
 
