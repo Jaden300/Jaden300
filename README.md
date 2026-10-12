@@ -2,14 +2,32 @@
 
 **ML engineer · full-stack builder · Toronto, 17**
 
-I build end-to-end systems across **machine learning**, **full-stack web**, and **quantitative trading**. I specialize in biomedical signal processing, applied ML, and AI-powered platforms - shipping complete systems from data to deployment.
+I build **machine learning**, **full-stack web**, and **quantitative trading** systems, from data to deployment.
 
 [Portfolio](https://jaden-wong.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jaden-wong09/)
 
 ---
 
-| | |
-|---|---|
+<table>
+<tr>
+<td><b><a href="https://mymurry.com/">MyMurry</a></b></td>
+<td>AI <b>active recall</b> platform. <b>GPT-4o</b> scoring, <b>21+ REST endpoints</b>, i18n (EN/FR/ES)</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Jaden300/Quant-Trading">Quant-Trading</a></b></td>
+<td><b>23 trading strategies</b>, 5 live. <b>~2,140 backtested</b> combos, live <b>S&amp;P 500</b> scanner</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Jaden300/myojam">myojam</a></b></td>
+<td>Open-source <b>EMG gesture classification</b> at <b>84.85% cross-subject accuracy</b>, with <b>8 browser demos</b></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Jaden300/Machine-Learning-Series">Machine-Learning-Series</a></b></td>
+<td><b>4 end-to-end ML notebooks</b>. Stacked ensemble at <b>97.0% accuracy</b>, <b>R² = 0.9893</b> regression</td>
+</tr>
+</table>
+
+---|---|
 | **[MyMurry](https://mymurry.com/)** | AI-powered **active recall** platform. **GPT-4o** scoring, **21+ REST endpoints**, **9 DB models**, i18n (EN/FR/ES) |
 | **[Quant-Trading](https://github.com/Jaden300/Quant-Trading)** | **23 trading strategies**, 5 live. Kalman filter crossover, **~2,140 backtested** param combos, live **S&P 500** scanner |
 | **[myojam](https://github.com/Jaden300/myojam)** &nbsp;·&nbsp; [Visit Website](https://www.myojam.com/) | Open-source **EMG gesture classification**. **84.85% cross-subject accuracy** on Ninapro DB5, full-stack platform with **8 browser demos**, **11 articles**, and educator lesson plans |
